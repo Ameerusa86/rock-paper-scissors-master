@@ -1,7 +1,7 @@
 # Frontend Mentor - Rock, Paper, Scissors
+![Rock, Paper, Scissors game coding challenge](https://user-images.githubusercontent.com/46317379/235670409-c3dabd92-0da6-4dc1-9635-d021e51dd9c9.png)
 
-![Design preview for the Rock, Paper, Scissors coding challenge](./design/desktop-preview.jpg)
-![Rock, Paper, Scissors game coding challenge](https://user-images.githubusercontent.com/46317379/235670279-2a9813b0-51b0-4708-9ffa-658e73e43b1f.png)
+
 
 
 ## Welcome! 👋
